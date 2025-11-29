@@ -1,0 +1,90 @@
+{
+  "id": 12,
+  "slug": "aryatma-budiaksa-l200230255",
+
+  "profile": {
+    "full_name": "Aryatma Budiaksa",
+    "nim": "L200230255",
+    "prodi": "Teknik Informatika",
+    "angkatan": "2023",
+    "photo_url": "https://cdn.talenta-ums.ac.id/photos/aulia.jpg",
+    "headline": "Mahasiswa Informatika UMS | Peminatan Rekayasa  Perangkat Lunak",
+    "short_bio": "Mahasiswa UMS dengan minat pada pengembangan web fullstack.",
+    "location": "Surakarta, Jawa Tengah",
+    "portfolio_url": "https://aryatmabudiaksa.com"
+  },
+
+  "skills": [
+    {
+      "id": 1,
+      "name": "ReactJS",
+      "category": "technical",
+      "level": "beginner",
+      "is_main": true,
+      "years_of_experience": 1,
+      "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+    },
+    {
+      "id": 2,
+      "name": "Django REST Framework",
+      "category": "technical",
+      "level": "intermediate",
+      "is_main": true,
+      "years_of_experience": 1,
+      "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"
+    },
+    {
+      "id": 3,
+      "name": "Python",
+      "category": "technical",
+      "level": "advanced",
+      "is_main": true,
+      "years_of_experience": 2,
+      "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+    }
+  ],
+
+  "experiences": [
+    {
+      "id": 101,
+      "title": "Proyek Kelompok - Pembuatan Website Apotek",
+      "organization": "Group Project",
+      "experience_type": "project",
+      "start_date": "2024-07-08",
+      "end_date": "2024-08-27",
+      "is_current": false,
+      "description": "Menciptakan Website Apotek Interaktif.",
+      "technologies": ["HTML", "CSS","JavaScript"],
+      "image_url": "https://cdn.example.com/company/digitalsolusi.png"
+    },
+    {
+      "id": 102,
+      "title": "Proyek Personal - Pembuatan Game di Alice 3",
+      "organization": "Personal Project",
+      "experience_type": "project",
+      "start_date": "2023-10-01",
+      "end_date": "2023-12-31",
+      "is_current": false,
+      "description": "Membuat Game 3D pada Software Alice 3 dengan Tema Action.",
+      "technologies": ["Alice 3", "Java"],
+      "image_url": "https://cdn.example.com/logo/ukm-informatika.png"
+    },
+    {
+      "id": 103,
+      "title": "Proyek Kelompok - Pembuatan Game di Sodtware Greenfoot",
+      "organization": "Group Project",
+      "experience_type": "project",
+      "start_date": "2024-12-01",
+      "end_date": "2025-01-01",
+      "is_current": false,
+      "description": "Membuat Game fps 2D di Software Greenfoot.",
+      "technologies": ["Java", "Greenfoot"],
+      "image_url": "https://cdn.example.com/projects/umkm-inventory.png"
+    }
+  ],
+
+  "statistics": {
+    "views_count": 0,
+    "profile_complete_percent": 92
+  }
+}
